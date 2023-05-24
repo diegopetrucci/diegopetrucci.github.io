@@ -40,11 +40,6 @@ fetch('items.json')
             wishlist.appendChild(section);
         });
 
-        // Initial state collapsed
-        document.querySelectorAll("[data-collapsible]").forEach((section) => {
-            section.classList.add("collapsed");
-        });
-
         document.querySelectorAll("[data-collapsible-trigger]").forEach((header) => {
             header.addEventListener("click", (e) => {
                 const section = e.target.closest("[data-collapsible]");

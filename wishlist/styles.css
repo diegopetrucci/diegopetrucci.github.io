@@ -52,11 +52,13 @@ ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    list-style-type: none; /* Add this */
 }
 
 li {
     width: calc(50% - 10px); /* subtract half of the gap */
     margin-bottom: 20px;
+    list-style-type: none; /* Add this */
 }
 
 li > div {
