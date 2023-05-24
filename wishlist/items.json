@@ -1,0 +1,104 @@
+{
+    "sections": [
+        {
+            "section_title": "Books",
+            "items": [
+                {
+                    "title": "Outlive: the science an art of longevity",
+                    "purchase_url": "https://www.amazon.co.uk/Outlive-Science-Longevity-Peter-Attia/dp/1785044540/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1684945054&sr=1-1",
+                    "image_url": "https://peterattiamd.com/wp-content/uploads/2022/11/Outlive_Bookshot-796x1024.jpg"
+                },
+                {
+                    "title": "All quiet on the western front",
+                    "purchase_url": "https://www.amazon.co.uk/Quiet-Western-Front-Erich-Remarque/dp/0099532816/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684945113&sr=1-1",
+                    "image_url": "https://ccsbooks.co.uk/wp-content/uploads/2019/10/9781912464173.jpg"
+                },
+                {
+                    "title": "Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet",
+                    "purchase_url": "https://www.amazon.co.uk/Not-End-World-Generation-Sustainable/dp/1784745006/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1684945143&sr=1-1",
+                    "image_url": "https://m.media-amazon.com/images/I/71rFAQYCpcL.jpg"
+                },
+                {
+                    "title": "The Middle Kingdoms: A New History of Central Europe",
+                    "purchase_url": "https://www.amazon.co.uk/Middle-Kingdoms-History-Central-Europe/dp/0241506158/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1684945165&sr=1-1",
+                    "image_url": "https://m.media-amazon.com/images/I/816g+LdGeiL.jpg"
+                },
+                {
+                    "title": "Essentialism: The Disciplined Pursuit of Less",
+                    "purchase_url": "https://www.amazon.co.uk/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0753558696/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684945188&sr=1-1",
+                    "image_url": "https://m.media-amazon.com/images/I/81-PxXFnD7L.jpg"
+                },
+                {
+                    "title": "Happy City: Transforming Our Lives Through Urban Designe",
+                    "purchase_url": "https://www.amazon.co.uk/Happy-City-Transforming-Through-Design/dp/0141047542/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
+                    "image_url": "https://m.media-amazon.com/images/I/91giLyP6hOL.jpg"
+                },
+                {
+                    "title": "Good Economics for Hard Times: Better Answers to Our Biggest Problems",
+                    "purchase_url": "https://www.amazon.co.uk/Good-Economics-Hard-Times-Problems/dp/0141986190/ref=sr_1_1?keywords=Good+Economics+for+Hard+Times&qid=1684945214&s=books&sr=1-1",
+                    "image_url": "https://m.media-amazon.com/images/I/816g+LdGeiL.jpg"
+                },
+                {
+                    "title": "Essentials of Classic Italian Cooking",
+                    "purchase_url": "https://www.amazon.co.uk/Essentials-Classic-Italian-Cooking/dp/0752227904/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=",
+                    "image_url": "https://m.media-amazon.com/images/I/816g+LdGeiL.jpg"
+                },
+                {
+                    "title": "Usability Engineerings",
+                    "purchase_url": "https://www.amazon.co.uk/Usability-Engineering-Interactive-Technologies-Nielsen/dp/0125184069/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
+                    "image_url": "https://m.media-amazon.com/images/I/816g+LdGeiL.jpg"
+                }
+            ]
+        },
+        {
+            "section_title": "Misc",
+            "items": [
+                {
+                    "title": "Outlive: the science an art of longevity",
+                    "purchase_url": "https://www.amazon.co.uk/Outlive-Science-Longevity-Peter-Attia/dp/1785044540/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1684945054&sr=1-1",
+                    "image_url": "https://peterattiamd.com/wp-content/uploads/2022/11/Outlive_Bookshot-796x1024.jpg"
+                },
+                {
+                    "title": "All quiet on the western front",
+                    "purchase_url": "https://www.amazon.co.uk/Quiet-Western-Front-Erich-Remarque/dp/0099532816/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684945113&sr=1-1",
+                    "image_url": "https://ccsbooks.co.uk/wp-content/uploads/2019/10/9781912464173.jpg"
+                },
+                {
+                    "title": "Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet",
+                    "purchase_url": "https://www.amazon.co.uk/Not-End-World-Generation-Sustainable/dp/1784745006/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1684945143&sr=1-1",
+                    "image_url": "https://m.media-amazon.com/images/I/71rFAQYCpcL.jpg"
+                },
+                {
+                    "title": "The Middle Kingdoms: A New History of Central Europe",
+                    "purchase_url": "https://www.amazon.co.uk/Middle-Kingdoms-History-Central-Europe/dp/0241506158/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1684945165&sr=1-1",
+                    "image_url": "https://m.media-amazon.com/images/I/816g+LdGeiL.jpg"
+                },
+                {
+                    "title": "Essentialism: The Disciplined Pursuit of Less",
+                    "purchase_url": "https://www.amazon.co.uk/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0753558696/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684945188&sr=1-1",
+                    "image_url": "https://m.media-amazon.com/images/I/81-PxXFnD7L.jpg"
+                },
+                {
+                    "title": "Happy City: Transforming Our Lives Through Urban Designe",
+                    "purchase_url": "https://www.amazon.co.uk/Happy-City-Transforming-Through-Design/dp/0141047542/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
+                    "image_url": "https://m.media-amazon.com/images/I/91giLyP6hOL.jpg"
+                },
+                {
+                    "title": "Good Economics for Hard Times: Better Answers to Our Biggest Problems",
+                    "purchase_url": "https://www.amazon.co.uk/Good-Economics-Hard-Times-Problems/dp/0141986190/ref=sr_1_1?keywords=Good+Economics+for+Hard+Times&qid=1684945214&s=books&sr=1-1",
+                    "image_url": "https://m.media-amazon.com/images/I/816g+LdGeiL.jpg"
+                },
+                {
+                    "title": "Essentials of Classic Italian Cooking",
+                    "purchase_url": "https://www.amazon.co.uk/Essentials-Classic-Italian-Cooking/dp/0752227904/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=",
+                    "image_url": "https://m.media-amazon.com/images/I/816g+LdGeiL.jpg"
+                },
+                {
+                    "title": "Usability Engineerings",
+                    "purchase_url": "https://www.amazon.co.uk/Usability-Engineering-Interactive-Technologies-Nielsen/dp/0125184069/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
+                    "image_url": "https://m.media-amazon.com/images/I/816g+LdGeiL.jpg"
+                }
+            ]
+        }
+    ]
+}
