@@ -49,16 +49,17 @@ a:visited {
 
 ul {
     padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 li {
-    display: flex;
-    justify-content: space-between;
+    width: calc(50% - 10px); /* subtract half of the gap */
     margin-bottom: 20px;
 }
 
 li > div {
-    width: 48%;
     text-align: center;
 }
 
@@ -70,7 +71,6 @@ img {
 .collapsed ul {
     display: none;
 }
-
 
 /* [data-collapsible].collapsed ul {
     display: none;

@@ -1,7 +1,6 @@
-{
-    "sections": [
+[
         {
-            "section_title": "Books",
+            "title": "Books",
             "items": [
                 {
                     "title": "Outlive: the science an art of longevity",
@@ -36,22 +35,22 @@
                 {
                     "title": "Good Economics for Hard Times: Better Answers to Our Biggest Problems",
                     "purchase_url": "https://www.amazon.co.uk/Good-Economics-Hard-Times-Problems/dp/0141986190/ref=sr_1_1?keywords=Good+Economics+for+Hard+Times&qid=1684945214&s=books&sr=1-1",
-                    "image_url": "https://m.media-amazon.com/images/I/816g+LdGeiL.jpg"
+                    "image_url": "https://m.media-amazon.com/images/I/71epdoyVIJL.jpg"
                 },
                 {
                     "title": "Essentials of Classic Italian Cooking",
                     "purchase_url": "https://www.amazon.co.uk/Essentials-Classic-Italian-Cooking/dp/0752227904/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=",
-                    "image_url": "https://m.media-amazon.com/images/I/816g+LdGeiL.jpg"
+                    "image_url": "https://m.media-amazon.com/images/I/81V6yyVcaOL.jpg"
                 },
                 {
                     "title": "Usability Engineerings",
                     "purchase_url": "https://www.amazon.co.uk/Usability-Engineering-Interactive-Technologies-Nielsen/dp/0125184069/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
-                    "image_url": "https://m.media-amazon.com/images/I/816g+LdGeiL.jpg"
+                    "image_url": "https://m.media-amazon.com/images/I/51M1HBM896L.jpg"
                 }
             ]
         },
         {
-            "section_title": "Misc",
+            "title": "Misc",
             "items": [
                 {
                     "title": "Outlive: the science an art of longevity",
@@ -101,4 +100,3 @@
             ]
         }
     ]
-}
