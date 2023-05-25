@@ -20,6 +20,10 @@ section {
     padding: 10px;
 }
 
+section p {
+    text-align: left;
+}
+
 h2 {
     color: #E95923;
     cursor: pointer;
@@ -49,10 +53,10 @@ a:visited {
 
 ul {
     padding: 0;
+    list-style-type: none;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    list-style-type: none; /* Add this */
 }
 
 li {
@@ -82,3 +86,4 @@ img {
 .collapsed ul {
     display: none;
 }
+
