@@ -26,10 +26,14 @@ fetch('items.json')
                 const div = document.createElement('div');
                 li.appendChild(div);
 
+                const titleDiv = document.createElement('div');
+                titleDiv.style.flexGrow = '1';
+                div.appendChild(titleDiv);
+
                 const a = document.createElement('a');
                 a.href = item.purchase_url;
                 a.textContent = item.title;
-                div.appendChild(a);
+                titleDiv.appendChild(a);
 
                 const img = document.createElement('img');
                 img.src = item.image_url;
