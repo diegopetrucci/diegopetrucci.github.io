@@ -1,0 +1,83 @@
+:root {
+    --text-color: #333333;
+    --link-color: #E95923;
+    --link-hover-bg: #FD9046;
+    --background-color: #ffffff;
+    --max-width: 700px;
+    --font-family: Helvetica, Arial, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text-color: white;
+        --link-color: #FFA07A;
+        --link-hover-bg: #db6e5a;
+        --background-color: #1f1f20;
+    }
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: var(--font-family);
+    color: var(--text-color);
+    background-color: var(--background-color);
+    line-height: 1.6;
+}
+
+.content {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile-image {
+    width: 236px;
+    height: 236px;
+    border-radius: 50%;
+    margin: 1.5rem 0 1rem 0;
+    object-fit: cover;
+}
+
+p {
+    font-size: clamp(1.3rem, 1.1rem + 0.5vw, 1.7rem);
+    text-align: center;
+    margin: 0 0 0.5rem 0;
+    letter-spacing: 0.5px;
+}
+
+.heading {
+    font-size: clamp(1.5rem, 1.3rem + 0.5vw, 2rem);
+    margin: 0 0 1.5rem 0;
+    font-weight: 500;
+    color: var(--text-color);
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    transition: all 0.1s ease;
+}
+
+a:hover, a:focus {
+    color: white;
+    background-color: var(--link-hover-bg);
+    padding: 0.1em 0.2em;
+    margin: -0.1em -0.2em;
+    border-radius: 2px;
+    outline: none;
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 16px;
+    }
+    
+    .profile-image {
+        width: 180px;
+        height: 180px;
+    }
+}
