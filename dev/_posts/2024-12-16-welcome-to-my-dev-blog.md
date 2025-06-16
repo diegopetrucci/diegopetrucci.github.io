@@ -21,3 +21,6 @@ Stay tuned for posts about:
 - And whatever else catches my interest!
 
 Thanks for stopping by!
+
+---
+*Updated: Theme should now be working correctly.*
