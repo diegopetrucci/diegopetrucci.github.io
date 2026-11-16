@@ -1,83 +1,108 @@
-:root {
-    --text-color: #333333;
-    --link-color: #E95923;
-    --link-hover-bg: #FD9046;
-    --background-color: #ffffff;
-    --max-width: 700px;
-    --font-family: Helvetica, Arial, sans-serif;
+img {
+   width: 236px;
+   height: 236px;
+   border-radius: 50%;
+   padding-top: 1.5em;
+   padding-bottom: 1em;
 }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --text-color: white;
-        --link-color: #FFA07A;
-        --link-hover-bg: #db6e5a;
-        --background-color: #1f1f20;
-    }
-}
-
-body {
-    margin: 0;
-    padding: 20px;
-    font-family: var(--font-family);
-    color: var(--text-color);
-    background-color: var(--background-color);
-    line-height: 1.6;
-}
-
-.content {
-    max-width: var(--max-width);
-    margin: 0 auto;
-    padding: 0 1rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.profile-image {
-    width: 236px;
-    height: 236px;
-    border-radius: 50%;
-    margin: 1.5rem 0 1rem 0;
-    object-fit: cover;
+h1 {
+    font-family: Helvetica;
+    font-weight: normal;
+    color: #333333;
+    /* padding-top: 1.5em; */
+    /* padding-bottom: 1.5em */
 }
 
 p {
-    font-size: clamp(1.3rem, 1.1rem + 0.5vw, 1.7rem);
-    text-align: center;
-    margin: 0 0 0.5rem 0;
-    letter-spacing: 0.5px;
-}
-
-.heading {
-    font-size: clamp(1.5rem, 1.3rem + 0.5vw, 2rem);
-    margin: 0 0 1.5rem 0;
-    font-weight: 500;
-    color: var(--text-color);
+	font-family: Helvetica;
+    /* font-size: calc(2em + (3em - 2em) * ((100vw - 300px) / (1600 - 300))); */
+    font-size: calc(1.3em + 0.25vw);
+	color: #333333;
+	text-align: center;
+	margin: 0 0 20px 0;
+	letter-spacing: 1px;
+    line-height: 1.5;
 }
 
 a {
-    color: var(--link-color);
-    text-decoration: none;
-    transition: all 0.1s ease;
+	color: #E95923;
+	text-transform: none;
+	text-decoration: none;
+	font-variant: normal;
 }
 
-a:hover, a:focus {
-    color: white;
-    background-color: var(--link-hover-bg);
-    padding: 0.1em 0.2em;
-    margin: -0.1em -0.2em;
-    border-radius: 2px;
-    outline: none;
+a:hover {
+	color: white;
+	background-color: #FD9046;
 }
 
-@media (max-width: 600px) {
-    body {
-        padding: 16px;
-    }
-    
-    .profile-image {
-        width: 180px;
-        height: 180px;
-    }
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+    max-width: 700px;
 }
+
+.intro-paragraph {
+    padding-top: 0em;
+    padding-bottom: 0em;
+}
+
+/* .intro-paragraph { */
+   /* padding-top: 1.5em; */
+   /* padding-bottom: 1.5em; */
+/* } */
+
+/* @media only screen
+  and (-webkit-min-device-pixel-ratio: 2) {
+    font: normal 4vw Helvetica;
+
+} */
+
+/* a:visited {
+	color: #FFBBA1;
+} */
+
+/* .alt {
+	color: #FFBBA1;
+	text-transform: none;
+	text-decoration: none;
+	font-variant: normal;
+}
+
+.altt {
+	color: #F24705;
+	text-transform: none;
+	text-decoration: none;
+	font-variant: normal;
+} */
+
+/* .altp {
+	color: #75706E;
+} */
+
+/* #wrapper {
+   width: 640px;
+   margin: 0 auto;
+   margin-top: 60px;
+} */
+
+/* hr {
+    border: none;
+    background-color: #C4BCD4;
+    color: #C4BCD4;
+    height: 1px;
+} */
+
+/* body {
+   font-size: 1em;
+} */
+
+/* #centered {
+   margin-left: auto;
+   margin-right: auto;
+} */
+/* Preserve the alignment previously supplied by the center element. */
+.content { text-align: center; }
